@@ -1,5 +1,8 @@
 # Resources
 
+### HTML/CSS
+* [HTML+CSS Tutorial by Cassidy Williams](https://github.com/cassidoo/HTML-CSS-Tutorial)  
+
 ### Git
 * [Github Git Cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
   Git basics in a handy-dandy PDF 
