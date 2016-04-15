@@ -17,7 +17,9 @@
 * [Rails Authentication by Codecademy](https://www.codecademy.com/learn/rails-auth)   
 
 ### JavaScript
-* [Learn JavaScript by Codecademy](https://www.codecademy.com/learn/javascript)   
+* [Learn JavaScript by Codecademy](https://www.codecademy.com/learn/javascript)
+* [Using AJAX and API's](https://www.youtube.com/watch?v=fEYx8dQr_cQ)  
+  (video) Super simple way to display API results in HTML
 
 ### Databases/SQL
 * [Learn SQL by Codecademy](https://www.codecademy.com/en/courses/learn-sql/)   
