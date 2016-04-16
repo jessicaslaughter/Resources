@@ -8,6 +8,7 @@
   Git basics in a handy-dandy PDF 
 * [Introduction to Git Commits](https://pcottle.github.io/learnGitBranching/)  
   Learning how Github works and using Git commands 
+* [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 
 ### Ruby
 * [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)  
